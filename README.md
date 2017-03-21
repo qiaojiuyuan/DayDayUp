@@ -326,3 +326,8 @@ calendar.set(mYear,mMonth - 1,mDay); 如果入参月份范围是1~12，设置月
 1. 《Android开发艺术探索》阅读进度51%
 2. 看了阿里的面试题，很多题都是Android开发艺术探索里面的内容。
 3. 完善了View事件体系脑图
+4. 学习了retrofit、okhttp、Rxjava。Rxjava只是入了下门，其它两个只是学习了使用方法和配合mvp模式。要找下时间看下源码实现。
+
+----
+## 2017年3月21日
+1. 学习《Android开发艺术探索》的window创建
