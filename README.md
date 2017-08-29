@@ -638,3 +638,8 @@ calendar.set(mYear,mMonth - 1,mDay); 如果入参月份范围是1~12，设置月
 ---
 ## 2017年8月24日
 1. 《C++ Primer Plus》进度12%
+
+---
+## 2017年8月29日
+1. 《C++ Primer Plus》进度15%
+2. 这几天一直在忙项目，今天学习了一些关于gradle的知识。
